@@ -7,20 +7,20 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/mohitbooraget/New_Txt_Random",
-    "success_url": "https://telegram.me/imendaxpublic",
+    "repository": "https://github.com/gauravpandey95/Cw-utkarsh-Cp-Appx-YouTube-Uploader",
+    "success_url": "https://telegram.me/alpha106106",
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "Enter your API id You can generate by https://my.telegram.org/auth",
+            "description": "29557021",
             "required": true
         },
         "API_HASH": {
-            "description": "Enter your API Hash You can generate by https://my.telegram.org/auth",
+            "description": "369274ecf18e5978daf97b53966862ea",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Enter your bot token You can generate by @BotFather",
+            "description": "7906929478:AAEAFRFB-ZnPp84qyvXpj-Rdzy8oEjamMJM",
             "required": true
         }
     },
